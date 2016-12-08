@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+li a {
+    color:black;
+    padding: 8px;
+    text-decoration: none;
+    background-color: black;
+    
+}
